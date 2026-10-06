@@ -23,6 +23,7 @@
   { "code": "mk", "name": "Македонски", "enName": "Macedonian" },
   { "code": "ml", "name": "മലയാളം", "enName": "Malayalam" },
   { "code": "mn", "name": "Монгол хэл", "enName": "Mongolian" },
+  {"code": "ps", "name": "پښتو", "enName": "Pashto" },
   { "code": "pl", "name": "Polski", "enName": "Polish" },
   {
     "code": "pt-br",
